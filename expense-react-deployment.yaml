@@ -15,7 +15,7 @@ spec:
         app: react
     spec:
       containers:
-        - image: yoniss/react-expense:18
+        - image: yoniss/react-expense:19
           name: expense-spring
           imagePullPolicy: Always
       restartPolicy: Always
